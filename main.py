@@ -1,7 +1,10 @@
 A = 10  
-b =20
+b = 40 
 c = 30
+d = 80
+
 
 print(A)
 print(b)
-print(c)    
+print(c) 
+print(d)   
